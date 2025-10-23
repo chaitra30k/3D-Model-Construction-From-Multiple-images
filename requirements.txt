@@ -1,0 +1,28 @@
+# Core dependencies
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# 3D visualization and processing
+open3d>=0.13.0
+matplotlib>=3.3.0
+plotly>=5.0.0
+
+# GUI framework
+tkinter  # Usually included with Python
+
+# Image processing
+scikit-image>=0.18.0
+imageio>=2.9.0
+
+# Scientific computing
+scipy>=1.7.0
+
+# Optional: For advanced visualization
+# pyvista>=0.32.0  # Uncomment if needed
+# trimesh>=3.9.0   # Uncomment if needed
+
+# Development and debugging
+tqdm>=4.62.0  # Progress bars
